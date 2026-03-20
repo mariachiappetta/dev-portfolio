@@ -7,7 +7,7 @@ O objetivo deste projeto é apresentar meu perfil profissional, destacando minha
 ---
 
 ## Status do projeto
-Em desenvolvimento — estrutura HTML em andamento.
+Em desenvolvimento — HTML base concluído, foto e links de redes sociais adicionados.
 
 ---
 
@@ -21,10 +21,8 @@ Desenvolver um portfólio moderno, responsivo e bem estruturado, com foco em boa
 
 ---
 
-## Próximos passos
-- Inserção de imagens no projeto;  
+## Próximos passos  
 - Adição de ícones de redes sociais (GitHub e LinkedIn);  
-- Configuração de favicon;
 - Estilização com CSS;    
 - Responsividade para diferentes dispositivos.  
 
